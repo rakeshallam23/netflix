@@ -1,0 +1,41 @@
+body{
+    background-image: url(t.jpg) ;
+    width: 100%;
+}
+#header
+{
+    display: flex;
+    justify-content: space-between;
+}
+button1 {
+    height: 20px;
+    width: 80px;
+    background-color: red;
+    display: flex;
+    color: white;
+    border: none;
+     border-radius: 5px;
+     flex-direction: row;
+     justify-content: space-around;
+
+}
+h1{
+    color: white;
+    font-size: 60px;
+    height: 25px;
+}
+h2{
+    color: white;
+    font-size: 28px;
+    height: 25px;
+}
+h3{
+    color: white;
+    font-size: 22px;
+    height:25px;
+}
+
+button2{
+    height: 40px;
+    width: 100px;
+}
